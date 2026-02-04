@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (too large for GitHub)
+data/raw/*.html
+data/raw/images/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (sensitive info)
+.env
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
